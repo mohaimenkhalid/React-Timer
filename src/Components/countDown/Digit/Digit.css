@@ -1,0 +1,14 @@
+.digit {
+    width: 150px;
+    height: 150px;
+    border: .4rem solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.digit h1 {
+    font-size: 60px;
+}
