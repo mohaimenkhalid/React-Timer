@@ -6,7 +6,7 @@ class Title extends Component {
         super(props);
 
         this.state = {
-            title: "This is a demo title",
+            title: "React Timer",
             isInput: false
         }
     }

@@ -67,7 +67,8 @@ class App extends Component {
                 min: 0,
                 sec: 0,
                 milisec: 0
-            }
+            },
+            laps: []
         })
     }
 
